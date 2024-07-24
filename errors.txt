@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 141: expected 'label_name' not found.
+    jump 
+        ^
+
+Ren'Py Version: Ren'Py 8.2.3.24061702
+Sat Jul 20 10:43:23 2024

@@ -1,0 +1,11 @@
+# renpy
+cache/
+saves/
+*.rpyc
+*.rpymc
+*.rpyb
+*.rpy
+*.pyo
+
+# vscode
+.vscode/

@@ -4,7 +4,6 @@ saves/
 *.rpyc
 *.rpymc
 *.rpyb
-*.rpy
 *.pyo
 
 # vscode
